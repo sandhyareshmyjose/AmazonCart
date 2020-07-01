@@ -41,6 +41,7 @@ import com.qa.Pages.MenuSelection;
 		menu.js();
 		menu.OpenMenu();
 		menu.PageSelection();
+		System.out.println("Hello");
 		
 	}
 	
